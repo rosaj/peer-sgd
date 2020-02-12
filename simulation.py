@@ -5,14 +5,11 @@ from collections import namedtuple
 import time
 import datetime
 from agent import Agent
-import agent
-import data_source
 import plot
 import model
 from model import Model
 from data_set import DataSet
 from data_set import DataSource
-from util import *
 from scenario import *
 import os
 import glob

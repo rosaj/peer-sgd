@@ -12,5 +12,3 @@ sim.simulate(name='kl',
              # batches_num=lambda: sim.np.random.randint(2, 16),
              save_weights=False)
 """
-# ako svaki agent ima samo jenu znamenku ? not working
-#  ((192000/128) * 1000) / (60000/128)
