@@ -2,7 +2,7 @@ from model import Model
 from util import *
 import numpy as np
 
-ACCEPT_PCT = 0.5
+ACCEPT_PCT = 0.2
 
 global MAX
 MAX = ACCEPT_PCT
